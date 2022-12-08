@@ -17,5 +17,6 @@ This script is designed to be used with the emulator Project 64 when playing the
 
 ## Notes
 
+- The script use the name of the music provide in .meta, or for the OoT music, just the name (ex: Goron's City)
 - The two text files will be created in the same directory as the script.
 - The script will only find music and fanfare played after it is run. It will not record music and fanfare from previous gameplay sessions.
