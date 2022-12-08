@@ -1,4 +1,4 @@
-# Project 64 Ocarina of Time Randomizer Music and Fanfare Finder V1.0
+# Project 64 - Ocarina of Time Randomizer - Music and Fanfare Finder V1.0
 
 This script is designed to be used with the emulator Project 64 when playing the game "Ocarina of Time Randomizer". It will find the music and the fanfare played in the game and write them to two separate text files - "Music Zelda Rando.txt" and "Fanfare Zelda Rando.txt" which can be used in your favorite live-streaming software.
 
